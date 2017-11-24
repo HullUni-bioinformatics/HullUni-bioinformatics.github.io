@@ -1,0 +1,8 @@
+title: HullUni-bioinformatics
+description: Bioinformatics Lab, Hull University, UK
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
